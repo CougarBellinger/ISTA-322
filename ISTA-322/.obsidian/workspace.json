@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISTA-322.md",
+                "file": "Lecture-Notes/Lecture 1 -- What Is Data Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ISTA-322"
+              "title": "Lecture 1 -- What Is Data Engineering"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISTA-322.md",
+                "file": "Lecture-Notes/Lecture 1 -- What Is Data Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ISTA-322"
+              "title": "Backlinks for Lecture 1 -- What Is Data Engineering"
             }
           },
           {
@@ -169,10 +169,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f6ab5b987f9f59e4",
+  "active": "37b53440c2d7ca6d",
   "lastOpenFiles": [
-    "Lecture-Notes/Lecture 3 -- Working with Data.md",
     "ISTA-322.md",
+    "Lecture-Notes/Lecture 3 -- Working with Data.md",
     "Lecture-Notes",
     "Lecture-Notes/Lecture 2 -- Data and Tools.md",
     "Lecture-Notes/Lecture 1 -- What Is Data Engineering.md",
