@@ -1,6 +1,7 @@
 {
-  "remoteURL": "https://github.com/CougarBellinger/ObsidianVault.git",
+  "remoteURL": "https://github.com/CougarBellinger/ISTA-322",
   "gitLocation": "",
   "syncinterval": 0,
-  "isSyncOnLoad": true
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true
 }
