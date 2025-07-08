@@ -11,10 +11,14 @@
             "id": "37b53440c2d7ca6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ISTA-322.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ISTA-322"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ISTA-322.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ISTA-322"
             }
           },
           {
@@ -164,15 +169,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "37b53440c2d7ca6d",
+  "active": "f6ab5b987f9f59e4",
   "lastOpenFiles": [
-    "ISTA-322/ISTA-322 -- Lecture Notes.md",
+    "Lecture-Notes/Lecture 3 -- Working with Data.md",
+    "ISTA-322.md",
+    "Lecture-Notes",
+    "Lecture-Notes/Lecture 2 -- Data and Tools.md",
+    "Lecture-Notes/Lecture 1 -- What Is Data Engineering.md",
+    "ISTA-322/Lecture 1 -- What Is Data Engineering.md",
     "ISTA-322/Lecture 3 -- Working with Data.md",
     "ISTA-322/Lecture 2 -- Data and Tools.md",
-    "ISTA-322/Lecture 1 -- What Is Data Engineering.md",
+    "ISTA-322/ISTA-322 -- Lecture Notes.md",
+    "ISTA-322",
     "Pasted image 20250708130746.png",
     "Excalidraw/Drawing 2025-07-05 21.30.16.excalidraw.md",
-    "ISTA-322",
     "Untitled 1.md",
     "Jass.md",
     "2025-05-21.md",
@@ -192,19 +202,13 @@
     "zArchive/Fall-2024/ECE-369A/StudyFinal/hw1.pdf",
     "zArchive/Fall-2024/ECE-369A/StudyFinal/hw1.md",
     "zArchive/Fall-2024/ECE-369A/StudyFinal/hw1.excalidraw.md",
-    "zArchive/Fall-2024/ECE-369A/StudyFinal/exam3.pdf",
     "zArchive/Fall-2024/ECE-369A/StudyFinal/Exam3.excalidraw.md",
     "zArchive/Fall-2024/ECE-369A/StudyFinal/Lecture41.excalidraw.md",
     "zArchive/Fall-2024/Capstone2024/PDR Notes.md",
     "zArchive/Fall-2024/ECE-369A/Lab 4 ToDo.md",
     "zArchive/Fall-2024/ECE-369A/2024-10-27.md",
     "zArchive/Capstone/PDR Notes.md",
-    "Personal/Lifestyle/Tacoma.md",
-    "Personal/Lifestyle/Life-List.md",
     "Personal/Lifestyle/Life-Grid.canvas",
-    "Personal/Lifestyle/Food Plan.md",
-    "Personal/Lifestyle/Financing.md",
-    "Personal/Lifestyle/Cleaning.md",
     "Untitled.canvas",
     "Personal/Life-Grid.canvas",
     "Fall-2024/ECE-369A/Untitled.canvas"
