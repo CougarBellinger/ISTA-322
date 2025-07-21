@@ -59,3 +59,5 @@
 - Need to parse and load into DB
 - Keys = column names
 - Values = observations
+
+![[ISTA_322_W2_WorkingWithData_Spring2024.pdf]]

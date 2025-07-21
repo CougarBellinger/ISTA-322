@@ -14,3 +14,4 @@
 - Lots of work to extract useful data from
 #### Notes:
 Data engineers take the raw data that’s stored and coming in from all over the place and transform it to a useful format. Data scientists take this data and make inference from it.
+![[ISTA_322_W1a_WhatIsDE_Fall2021.pdf]]

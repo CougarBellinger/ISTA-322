@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9da3fd1db4845042",
+        "id": "3bd8412d25a77aa2",
         "type": "tabs",
         "children": [
           {
-            "id": "37b53440c2d7ca6d",
+            "id": "72a9bdd98195cbbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISTA-322.md",
+                "file": "Lecture-Notes/Lecture 4 -- Transforms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ISTA-322"
+              "title": "Lecture 4 -- Transforms"
+            }
+          },
+          {
+            "id": "0b400f164c40be54",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
         ]
@@ -113,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISTA-322/Lecture 3 -- Working with Data.md",
+                "file": "Lecture-Notes/Lecture 3 -- Working with Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,17 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISTA-322.md",
+                "file": "Lecture-Notes/Lecture 4 -- Transforms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ISTA-322"
+              "title": "Outline of Lecture 4 -- Transforms"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,40 +177,42 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f6ab5b987f9f59e4",
+  "active": "72a9bdd98195cbbd",
   "lastOpenFiles": [
-    "Lecture-Notes/Lecture 3 -- Working with Data.md",
-    "Lecture-Notes/Lecture 2 -- Data and Tools.md",
     "Lecture-Notes/Lecture 1 -- What Is Data Engineering.md",
     "ISTA-322.md",
-    "Lecture-Notes",
+    "Lecture-Notes/Lecture 3 -- Working with Data.md",
+    "Lecture-Notes/Lecture 4 -- Transforms.md",
+    "Lectures/msoC0A2.tmp",
+    "Lectures/msoBB32.tmp",
+    "Lectures/msoB228.tmp",
+    "Lectures/msoB11D.tmp",
+    "Lectures/msoA9D9.tmp",
+    "Lectures/msoA8BF.tmp",
+    "Lectures/mso9891.tmp",
+    "Lectures/msoF0D.tmp",
+    "Lectures/mso98E.tmp",
+    "Lectures/mso893.tmp",
+    "Lecture-Notes/Lecture 2 -- Data and Tools.md",
     "ISTA-322/Lecture 1 -- What Is Data Engineering.md",
     "ISTA-322/Lecture 3 -- Working with Data.md",
     "ISTA-322/Lecture 2 -- Data and Tools.md",
     "ISTA-322/ISTA-322 -- Lecture Notes.md",
-    "ISTA-322",
     "Pasted image 20250708130746.png",
     "Excalidraw/Drawing 2025-07-05 21.30.16.excalidraw.md",
     "Untitled 1.md",
     "Jass.md",
     "2025-05-21.md",
-    "Excalidraw",
-    "zArchive/Spring-2025/ML/Files/(2) Optimality Conditions.pdf",
     "zArchive/Spring-2025/ML/Slides.md",
     "zArchive/Spring-2025/ML/Optimality.md",
-    "zArchive/Spring-2025/ML/Files",
     "zArchive/Spring-2025/CSC-355/Slides.md",
     "zArchive/Spring-2025/CSC-355/Drawing 2025-01-30 12.25.52.excalidraw.md",
-    "zArchive/Spring-2025/ML",
-    "zArchive/Spring-2025/CSC-355",
-    "zArchive/Spring-2025",
     "zArchive/Fall-2024/ECE-369A/Untitled.canvas",
-    "zArchive/Fall-2024/ECE-369A/StudyFinal/hw2.pdf",
     "zArchive/Fall-2024/ECE-369A/StudyFinal/hw2.md",
-    "zArchive/Fall-2024/ECE-369A/StudyFinal/hw1.pdf",
     "zArchive/Fall-2024/ECE-369A/StudyFinal/hw1.md",
     "zArchive/Fall-2024/ECE-369A/StudyFinal/hw1.excalidraw.md",
     "zArchive/Fall-2024/ECE-369A/StudyFinal/Exam3.excalidraw.md",
@@ -208,7 +220,6 @@
     "zArchive/Fall-2024/Capstone2024/PDR Notes.md",
     "zArchive/Fall-2024/ECE-369A/Lab 4 ToDo.md",
     "zArchive/Fall-2024/ECE-369A/2024-10-27.md",
-    "zArchive/Capstone/PDR Notes.md",
     "Personal/Lifestyle/Life-Grid.canvas",
     "Untitled.canvas",
     "Personal/Life-Grid.canvas",

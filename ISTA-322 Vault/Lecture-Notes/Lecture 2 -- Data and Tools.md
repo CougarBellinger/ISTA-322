@@ -7,3 +7,6 @@
 - **Data Warehouse**: Stores transformed data
 #### Big Data
 - Utilize cluster of machines for data processing
+
+
+![[ISTA_322_W1b_DataAndTools_Fall2021.pdf]]
