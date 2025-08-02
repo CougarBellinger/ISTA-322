@@ -30,7 +30,7 @@ foreach ($pptxFile in $pptxFiles) {
         $presentation.Close()
     }
     catch {
-        Write-Host "Error processing $($pptxFile.FullName): $_"
+        Write-Host "Error processing $($pptxFile.FullName): $_`n"
     }
 
     Write-Host "Converted $($pptxFile.Name) to PDF successfully.`n`"$($pdfFile)`"`n"
