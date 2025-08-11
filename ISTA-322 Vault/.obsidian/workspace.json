@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Final Project Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Final Project Plan"
             }
           },
           {
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md",
+                "file": "Final Project Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of Final Project Plan"
             }
           }
         ],
@@ -210,10 +210,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4cd2e6ad4b37af21",
+  "active": "0b400f164c40be54",
   "lastOpenFiles": [
-    "Lecture-Notes/Lecture 7 -- Setting Up a Database on AWS.md",
     "TODO.md",
+    "Final Project Plan.md",
+    "Lecture-Notes/Lecture 7 -- Setting Up a Database on AWS.md",
     "ISTA-322.md",
     "Lecture-Notes/Lecture 4 -- Transforms.md",
     "Lecture-Notes/Lecture 1 -- What Is Data Engineering.md",
@@ -249,7 +250,6 @@
     "zArchive/Fall-2024/ECE-369A/StudyFinal/Exam3.excalidraw.md",
     "zArchive/Fall-2024/ECE-369A/StudyFinal/Lecture41.excalidraw.md",
     "zArchive/Fall-2024/Capstone2024/PDR Notes.md",
-    "zArchive/Fall-2024/ECE-369A/Lab 4 ToDo.md",
     "Personal/Lifestyle/Life-Grid.canvas",
     "Untitled.canvas",
     "Personal/Life-Grid.canvas",
