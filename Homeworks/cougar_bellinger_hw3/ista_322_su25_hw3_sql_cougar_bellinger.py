@@ -56,21 +56,7 @@ def get_conn_cur(): # define function name and arguments (there aren't any)
   return(conn, cur)   # Return both the connection and the cursor
 
 # Same run_query function
-def run_query(query_string):
 
-  conn, cur = get_conn_cur() # get connection and cursor
-
-  cur.execute(query_string) # executing string as before
-
-  my_data = cur.fetchall() # fetch query data as before
-
-  # here we're extracting the 0th element for each item in cur.description
-  colnames = [desc[0] for desc in cur.description]
-
-  cur.close() # close
-  conn.close() # close
-
-  return(colnames, my_data) # return column names AND data
 
 # Column name function for checking out what's in a table
 def get_column_names(table_name): # arguement of table_name
